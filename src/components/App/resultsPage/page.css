@@ -1,0 +1,13 @@
+.results {
+    /* background-image:url("./Home1.jpg") ;  */
+    background-color: white;
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-size: cover;
+  position: relative;
+  height: 200vh;
+  background-attachment: scroll;
+    color: black;
+    font-size: 18px;
+    font-weight: 100;
+}

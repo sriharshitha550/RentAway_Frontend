@@ -1,0 +1,32 @@
+.profilebg {
+    background-image:url("./Listing.png") ; 
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-size: cover;
+    position: relative;
+    height: 100vh;
+    background-attachment: scroll;
+    overflow-x: hidden;
+    font-size: 18px;
+    font-weight: 100;
+    width: 100%;
+   
+}
+
+.Tabprof {
+  float: right;
+  margin-right: 30vw;
+  margin-top:10vh; 
+  margin-bottom: 10vh;
+  margin-left:10vh; 
+  padding: 50px;
+  width: 35vw;
+  height: 100 vh;
+  background-color:white; 
+  border-radius: 2.5%;
+
+}
+
+.Tabprof label{
+  font-size: 12px;
+}

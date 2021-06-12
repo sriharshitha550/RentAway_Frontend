@@ -1,0 +1,97 @@
+
+body {
+  background-color: white;
+}
+p {
+    line-height: 5px;
+    
+}
+a {
+    color: black;
+  }
+
+  
+  .card1 {
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      background-color: white;
+      transition: 0.3s;
+      width: 380px;
+      height: 400px;
+      margin-left: 4%;
+      margin-right: 2%;
+      margin-bottom:4%;
+      margin-top: 4%;
+      float: left;
+      border-radius:5px; 
+    }
+    
+    .card1:hover {
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+      color: black;
+    }
+    
+    .container {
+      padding: 10px 16px; 
+      float: right;
+      margin-top: 60px;
+    }
+    .type1 {
+      font-size: 16px;
+      font-style: oblique;
+      font-weight: 100;
+      position: initial;
+      text-transform: uppercase;
+      color: darkgrey;
+      padding-top: 10px;
+      padding-bottom: 10px;
+     
+    }
+    .name1 {
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 500;
+      position: inherit;
+      padding-bottom: 10px; 
+  
+    }
+    .location {
+      font-size: 16px;
+      font-style: italic;
+      font-weight: 400;
+      position: inherit;
+      padding-bottom: 10px; 
+  
+    }
+    .cost {
+      font-size: 16px;
+      font-style: oblique;
+      font-weight: 120;
+      position: inherit;
+     
+    }
+    .image {
+        width:100px;
+        height:100%;
+        float: right;
+        /* align-self: auto; */
+    }
+    .car {
+      width: 100%;
+      height: 40%;
+      padding-bottom:40px; 
+    }
+    
+  
+    ul {
+      list-style-type: none;
+      align-content: center;
+    }
+
+    .backg{
+      background-image: url("./no.jpg");
+      background-repeat: no-repeat;
+      height:40vh;
+      width:80vh;
+      background-position: center; 
+    }
+    

@@ -1,0 +1,26 @@
+.navBar{
+  font-size: 16px;
+  font-style: oblique;
+  font-weight: 400  ;
+  position: inherit;
+  /* color: white; */
+  
+}
+.navBar .text-black {
+  padding: 20px;
+}
+.fa fa-user-o
+{
+  color: white;
+}
+
+.ep{
+
+  padding: 10px;
+  color: black
+}
+
+.dropdownWidth{
+
+  padding-right:50px;
+}

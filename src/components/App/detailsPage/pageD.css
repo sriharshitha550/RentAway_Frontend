@@ -1,0 +1,116 @@
+div .details {
+     /* background-image:url("./bg2.jpg") ;  */
+     background-color: white;
+    background-repeat: no-repeat;
+    background-position: cover;
+  background-size: cover;
+  position: relative;
+  height: 175vh;
+  background-attachment: scroll;
+    color: black;
+    font-size: 18px;
+    
+
+}
+
+hr {
+    width: 85%;
+    padding: 20px;
+    
+}
+.cardD {
+    background-color:white;
+    float: right;
+    width: 40vw;
+    height: 30vh;
+    margin-top: 5vh;
+    margin-right: 30vw;
+    margin-bottom: 2.5vh ;
+    padding-top: 20px;
+    border-radius: 5px;
+    padding: 10px;
+    opacity: .9;
+    border: white;
+
+}
+
+.features {
+    background-color:white;
+    float: left;
+    width: 60vw;
+    height: 69vh;
+    margin-top: 2.5vh;
+    margin-left: 2.5vw;
+    margin-bottom: 2.5vh ;
+    border-radius: 5px;
+    box-shadow: 1px 4px #888888;
+    padding: 15px;
+    opacity: .9;
+
+}
+
+div .listitemsAmen {
+    background-color: #e6e6e6;
+    width: 170px;
+    height: 180px;
+    padding-bottom: 10px;
+    border-radius: 6%;
+    align-content: center;
+}
+
+div .amHr1 {
+    padding-top: 15%;
+}
+
+div .HomenameBox{
+    width:46vw;
+    height: 68vh;
+    float: left;
+    padding-top: 5vh;
+    background-color:#e6e6e6;
+    margin-left: 20px;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    padding-bottom: 5vh;
+    position: relative;
+}
+.HR {
+    padding-left:20px;
+    border: #fff;
+}
+
+.fixed-footer{
+    width: 100%;
+    position: fixed;        
+    background: #fff;
+    padding: 10px 0;
+    color: #333;
+    height:8%;
+    border-top: solid whitesmoke 2px;
+    bottom:0px;
+}
+
+.carousel-item > img { 
+    width: 30%; 
+  }
+
+div .images {
+    width: 1375px;
+    float: right;
+    position: absolute;
+    margin-left: 47vw;
+    margin-right: 1vw;
+    
+}
+
+div .listitemsAmen img {
+    width:100%;
+    height: 80%;
+    float: right;
+    padding-bottom: 20px;
+    padding-top: -20px;
+}
+
+div .listitemsAmen .imgcaption {
+    display: block;
+}

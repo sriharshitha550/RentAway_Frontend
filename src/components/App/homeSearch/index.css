@@ -1,0 +1,82 @@
+.name
+{
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 8px 10px;
+    font-family: "ETmodules";
+   	font-size: 25px;
+	font-weight: 800;
+	position:fixed;
+	left:500px;
+    
+}
+.name1
+{
+position:fixed;
+	left:460px;
+}
+
+.aa{
+width:20%;
+height:80%;
+background-color:#ffff;
+margin:0 auto;
+float: right;
+margin-right: 20%;
+margin-top:auto;
+font-style: oblique;  
+font-weight: 100;
+padding-left:10px;
+padding-bottom: 10px;
+padding-right: 10px;
+padding-top: 10px; 
+border-radius:5px;
+-webkit-border-radius:5px;
+-o-border-radius:5px;
+-moz-border-radius:5px;
+color:black;
+
+
+
+}
+.aa input[type="number"]{
+width:90%;
+height:35px;
+border:3px;
+padding-left:5px;
+border-color: black;
+font-size: 16px;
+background-color:#f9fafc;
+}
+.aa input[type="text"]:focus {
+background-color: white;
+}
+.aa input[type="date"]{
+width:200px;
+height:35px;
+border:0;
+padding-left:5px;
+border-radius:5px;
+-webkit-border-radius:5px;
+-o-border-radius:5px;
+-moz-border-radius:5px;
+}
+
+.aa input[type="submit"]{
+  border: 2px solid black;
+  border-radius: 3px;
+  background-color: #f94141 ;
+  color: white;
+  padding: 8px 18px;
+  font-size: 12px;
+  cursor: pointer;
+  border-color:#f94141;
+  color: white;
+  align-self: right; 
+}
+.aa input[type="submit"]:hover
+{
+background-color:white;
+  color: #f94141;
+}

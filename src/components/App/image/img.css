@@ -1,0 +1,14 @@
+.myImg {
+  background-image: url("./Home1.jpg");
+  background-repeat: no-repeat;
+  background-position: cover;
+  background-size: cover;
+  position: relative;
+  height: 100vh;
+  background-attachment: scroll;
+
+}
+.hello {
+  padding: 100px 0;
+}
+  
